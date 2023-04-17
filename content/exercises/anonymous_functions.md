@@ -7,7 +7,6 @@ draft: false
 
 Hey this is the first lesson:
 
-you can check it out [here](https://github.com/mauricioabreu/golings/blob/main/exercises/anonymous_functions/anonymous_functions1/main.go) 
 ```go
 // anonymous functions1
 // Make me compile!
@@ -25,3 +24,4 @@ func main() {
 
 }
 ```
+[Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/anonymous_functions/anonymous_functions1/main.go) and [Playground](https://go.dev/play/p/YmZRqjE3Cvo)
