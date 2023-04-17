@@ -1,7 +1,7 @@
 baseURL = 'http://golings.edu/'
 languageCode = 'en-us'
 title = 'Golings Site'
-theme = "hugo-blog-awesome"
+theme = "blog"
 
 [[params.socialIcons]]
 name = "github"
