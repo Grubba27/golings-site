@@ -1,4 +1,4 @@
-baseURL = 'http://golings.edu/'
+baseURL = 'https://golings.vercel.app/'
 languageCode = 'en-us'
 title = 'Golings Site'
 theme = "blog"
