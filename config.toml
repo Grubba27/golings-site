@@ -47,5 +47,5 @@ enableEmoji = true
 
 [params.author]
   avatar = "gopher.png"
-  intro = "Learning Go by solving programs"
+  intro = "Learning Go by solving problems"
   name = "Golings"
