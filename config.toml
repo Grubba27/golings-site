@@ -1,0 +1,50 @@
+baseURL = 'http://golings.edu/'
+languageCode = 'en-us'
+title = 'Golings Site'
+theme = "hugo-blog-awesome"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/mauricioabreu/golings"
+
+# Enable emojis globally
+enableEmoji = true
+
+# set markup.highlight.noClasses=false to enable code highlight
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNumbersInTable = true
+    noClasses = false
+    noHl = false
+    style = 'hrdark'
+    tabWidth = 4
+
+[menu]
+  [[menu.main]] 
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'About'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="exercices"
+    name = 'Exercises'
+    url = '/exercises/'
+    weight = 20
+
+[params]
+  sitename = "Golings"
+  defaultColor = "Light" # set default color mode: dark or light
+  description = "Rustlings, but for Go"
+
+[params.author]
+  avatar = "gopher.png"
+  intro = "Learning Go by solving programs"
+  name = "Golings"
