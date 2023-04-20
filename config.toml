@@ -33,6 +33,13 @@ enableEmoji = true
     name = 'About'
     url = '/'
     weight = 10
+  [[menu.main]] 
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="installing"
+    name = 'Installing'
+    url = '/installing'
+    weight = 10
   [[menu.main]]
     pageRef="exercices"
     name = 'Exercises'
@@ -50,4 +57,4 @@ enableEmoji = true
   avatar = "Go-Logo_Blue.png"
   intro = "Learning Go by solving problems"
   name = "Golings"
-  description = "Similar to Rustlings, but for Go."
+  description = "rustlings but for golang this time."

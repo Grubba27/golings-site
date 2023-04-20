@@ -1,9 +1,8 @@
 // Author
 .author {
-  margin-top: 6.3rem;
-  margin-bottom: 7.2rem;
-  text-align: center;
-
+  margin-top: 1.0rem;
+  margin-bottom: 5.0rem;
+  text-align: left;
   @include media-query($on-mobile) {
     margin-bottom: 3em;
   }

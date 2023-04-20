@@ -4,11 +4,23 @@
 <div class="author">
     {{ with $image }}
     {{ $image := $image.Fill "100x100 webp" }}
-    <img class="author-avatar" 
-    src="{{ $image.RelPermalink }}" 
-    style="background-color : transparent;"
-    alt="{{ $avatar_img_alt }}" width="{{ .Width }}" height="{{ .Height }}" />
+    <img class="author-avatar" src="{{ $image.RelPermalink }}" style="background-color : transparent;"
+        alt="{{ $avatar_img_alt }}" width="{{ .Width }}" height="{{ .Height }}" />
     {{ end }}
     <h2 class="author-name">{{ .Site.Params.author.intro }}</h2>
-    <p class="author-bio">{{ .Site.Params.author.description }}</p>
+    <p>
+        {{ .Site.Params.author.description }}
+        <br />
+        <br />
+        You may know <a href="https://github.com/rust-lang/rustlings">rustlings</a>, right? If you don't, please go
+        ahead and check
+        out.
+        <br/>
+        <br/>
+        <code>rustlings</code> is awesome. It is a CLI app designed to teach the awesome Rust programming language through
+        exercises.
+        <br/>
+        <br/>
+        <code>golings</code> has the very same idea, but for the <a href="https://go.dev">Go programming language</a>.
+    </p>
 </div>
