@@ -56,5 +56,5 @@ enableEmoji = true
 [params.author]
   avatar = "Go-Logo_Blue.png"
   intro = "Learning Go by solving problems"
-  name = "Golings"
+  name = "Made with ❤️ by Mauricio Abreu and Gabriel Grubba"
   description = "rustlings but for golang this time."
