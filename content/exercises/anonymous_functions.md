@@ -8,6 +8,15 @@ pageSource: "https://github.com/Grubba27/golings-site/blob/main/content/exercise
 ---
 
 
+# Reading material:
+
+Go by example: [Closures](https://gobyexample.com/closures)
+
+A Tour of Go: [Closures](https://go.dev/tour/moretypes/25)
+
+---
+
+
 ##  First exercise:
 
 ```go
