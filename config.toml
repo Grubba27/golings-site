@@ -41,6 +41,7 @@ enableEmoji = true
 
 [params]
   sitename = "Golings"
+  pageSource = "https://github.com/Grubba27/golings-site"
   defaultColor = "light" # set default color mode: dark or light
   description = "Rustlings, but for Go"
   exercises = "https://github.com/mauricioabreu/golings/blob/main/exercises"
