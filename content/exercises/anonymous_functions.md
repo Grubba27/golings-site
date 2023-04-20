@@ -27,9 +27,9 @@ func main() {
 
 }
 ```
- - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/anonymous_functions/anonymous_functions1/main.go);
- - [Playground](https://go.dev/play/p/YmZRqjE3Cvo);
- - [Solved](https://go.dev/play/p/ggJXZybLVom);
+ - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/anonymous_functions/anonymous_functions1/main.go) 
+ - [Playground](https://go.dev/play/p/YmZRqjE3Cvo) 
+ - [Solved](https://go.dev/play/p/ggJXZybLVom)
 
 
  ##  Second exercise:
@@ -51,9 +51,9 @@ func main() {
 	}
 }
 ```
- - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/anonymous_functions/anonymous_functions2/main.go);
- - [Playground](https://go.dev/play/p/7kLSnWwN4DJ);
- - [Solved](https://go.dev/play/p/bBqoyklXiSn);
+ - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/anonymous_functions/anonymous_functions2/main.go) 
+ - [Playground](https://go.dev/play/p/7kLSnWwN4DJ) 
+ - [Solved](https://go.dev/play/p/bBqoyklXiSn)
 
 
   ##  Third exercise:
@@ -95,6 +95,6 @@ func main() {
 	}
 }
 ```
- - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/anonymous_functions/anonymous_functions3/main.go);
- - [Playground](https://go.dev/play/p/XQgkjjWqhwD);
- - [Solved](https://go.dev/play/p/tuRE2AJu5vO);
+ - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/anonymous_functions/anonymous_functions3/main.go) 
+ - [Playground](https://go.dev/play/p/XQgkjjWqhwD) 
+ - [Solved](https://go.dev/play/p/tuRE2AJu5vO)

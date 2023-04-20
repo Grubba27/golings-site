@@ -6,15 +6,16 @@
                 <h1 class="header-title">{{ .Title }}</h1>
             </header>
             <div class="page-content">
-                {{ .Content }}
                 <span>
-                    If something is missing or wrong with these exercises you can edit on <a href="{{ .Param "exercises" }}">Github</a>  
-                    <br />
-                    If something is wrong with this page you can edit <a href="{{ .Param "pageSource" }}">here</a>
                 </span>
+                {{ .Content }}
+                <br />
+                <br />
+                If something is wrong in this page, <a href="{{ .Param " pageSource" }}">edit this page on GitHub</a>
             </div>
         </article>
     </main>
     {{ partial "copy-code.html" . }}
+    {{ partial "styles/button-list.html" . }}
 </div>
 {{ end }}

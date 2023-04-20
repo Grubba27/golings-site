@@ -29,9 +29,9 @@ func main() {
 }
 ```
 
- - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/arrays/arrays1/main.go);
- - [Playground](https://go.dev/play/p/AoEkJ9s_m_h);
- - [Solved](https://go.dev/play/p/NwbqPNo4Wf2);
+ - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/arrays/arrays1/main.go) 
+ - [Playground](https://go.dev/play/p/AoEkJ9s_m_h) 
+ - [Solved](https://go.dev/play/p/NwbqPNo4Wf2)
 
 
  ##  Second exercise:
@@ -50,6 +50,6 @@ func main() {
 	fmt.Println(names)
 }
 ```
- - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/arrays/arrays2/main.go);
- - [Playground](https://go.dev/play/p/8RwWAQfC6u_5);
- - [Solved](https://go.dev/play/p/E504lokYVJA);
+ - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/arrays/arrays2/main.go) 
+ - [Playground](https://go.dev/play/p/8RwWAQfC6u_5) 
+ - [Solved](https://go.dev/play/p/E504lokYVJA)
