@@ -1,2 +1,2 @@
 # golings-site
- Golings site
+ [Golings site](https://github.com/mauricioabreu/golings)
