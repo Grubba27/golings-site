@@ -6,6 +6,7 @@
     {{ $image := $image.Fill "100x100 webp" }}
     <img class="author-avatar" 
     src="{{ $image.RelPermalink }}" 
+    style="background-color : transparent;"
     alt="{{ $avatar_img_alt }}" width="{{ .Width }}" height="{{ .Height }}" />
     {{ end }}
     <h2 class="author-name">{{ .Site.Params.author.intro }}</h2>

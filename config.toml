@@ -41,11 +41,12 @@ enableEmoji = true
 
 [params]
   sitename = "Golings"
-  defaultColor = "Light" # set default color mode: dark or light
+  defaultColor = "light" # set default color mode: dark or light
   description = "Rustlings, but for Go"
   exercises = "https://github.com/mauricioabreu/golings/blob/main/exercises"
 
 [params.author]
-  avatar = "gopher.png"
+  avatar = "Go-Logo_Blue.png"
   intro = "Learning Go by solving problems"
   name = "Golings"
+  description = "Similar to Rustlings, but for Go."
