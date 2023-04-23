@@ -8,7 +8,7 @@ pageSource: "https://github.com/Grubba27/golings-site/blob/main/content/exercise
 ---
 
 
-# Reading material:
+# Reading material
 
 Go by example: [Closures](https://gobyexample.com/closures)
 

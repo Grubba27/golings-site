@@ -6,7 +6,7 @@ exercises: "https://github.com/mauricioabreu/golings/tree/main/exercises/primiti
 pageSource: "https://github.com/Grubba27/golings-site/blob/main/content/exercises/primitive_types.md"
 ---
 
-# Reading material:
+# Reading material
 
 A Tour of Go: [Basic types](https://go.dev/tour/basics/11).
 

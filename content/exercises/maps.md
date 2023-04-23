@@ -6,7 +6,7 @@ exercises: "https://github.com/mauricioabreu/golings/tree/main/exercises/maps"
 pageSource: "https://github.com/Grubba27/golings-site/blob/main/content/exercises/maps.md"
 ---
 
-# Reading material:
+# Reading material
 
 Go by example: [Maps](https://gobyexample.com/maps).
 

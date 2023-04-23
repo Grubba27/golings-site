@@ -6,7 +6,7 @@ exercises: "https://github.com/mauricioabreu/golings/tree/main/exercises/functio
 pageSource: "https://github.com/Grubba27/golings-site/blob/main/content/exercises/functions.md"
 ---
 
-# Reading material:
+# Reading material
 
 Go by example: [Functions](https://gobyexample.com/functions)
 

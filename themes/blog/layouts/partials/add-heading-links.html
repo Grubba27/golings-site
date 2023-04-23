@@ -3,10 +3,10 @@
   (function addHeadingLinks() {
     var article = document.querySelector("article")
     console.log(article)
-    var headings = article.querySelectorAll("h2")
+    var headings = article.querySelectorAll("h1, h2")
     headings.forEach(function (heading) {
       if (heading.id) {
-        var text = '{{ partial "svgs/link.svg" (dict "height" 21 "width" 21 "class" "anchor-link") . }}'
+        var text = "📎"
         var a = document.createElement('a');
         heading.style = "display: flex; gap: 0.5em;"
         a.innerHTML = text

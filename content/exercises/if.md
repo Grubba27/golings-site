@@ -6,7 +6,7 @@ exercises: "https://github.com/mauricioabreu/golings/tree/main/exercises/if"
 pageSource: "https://github.com/Grubba27/golings-site/blob/main/content/exercises/if.md"
 ---
 
-# Reading material:
+# Reading material
 
 Go by example: [If/Else](https://gobyexample.com/if-else)
 

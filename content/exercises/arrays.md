@@ -5,7 +5,7 @@ draft: false
 exercises: "https://github.com/mauricioabreu/golings/tree/main/exercises/arrays"
 pageSource: "https://github.com/Grubba27/golings-site/blob/main/content/exercises/arrays.md"
 ---
-# Reading material:
+# Reading material
 
 Go by example: [Arrays](https://gobyexample.com/arrays)
 
