@@ -1,5 +1,5 @@
 ---
-title: "Anonymous functions"
+title: "Anonymous Functions"
 date: 2023-04-16T21:46:07-03:00
 draft: false
 descripiton: "TODO"
@@ -17,7 +17,7 @@ A Tour of Go: [Closures](https://go.dev/tour/moretypes/25)
 ---
 
 
-##  First exercise:
+##  First exercise
 
 ```go
 // anonymous functions1
@@ -41,7 +41,7 @@ func main() {
  - [Solved](https://go.dev/play/p/ggJXZybLVom)
 
 
- ##  Second exercise:
+ ##  Second exercise
 
 ```go
 // anonymous functions2
@@ -65,7 +65,7 @@ func main() {
  - [Solved](https://go.dev/play/p/bBqoyklXiSn)
 
 
-  ##  Third exercise:
+  ##  Third exercise
 
 ```go
 // anonymous functions3

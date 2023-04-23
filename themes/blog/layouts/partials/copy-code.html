@@ -31,6 +31,7 @@
       }
     });
   }
+
   if (navigator && navigator.clipboard) {
     addCopyButtons(navigator.clipboard);
   } else {
@@ -45,7 +46,26 @@
     document.body.appendChild(script);
   }
 </script>
+<script defer>
 
+  (function addHeadingLinks() {
+    var article = document.querySelector("article")
+    console.log(article)
+    var headings = article.querySelectorAll("h2")
+    headings.forEach(function (heading) {
+      if (heading.id) {
+        var text = '{{ partial "svgs/link.svg" (dict "height" 21 "width" 21 "class" "anchor-link") . }}'
+        var a = document.createElement('a');
+        heading.style = "display: flex; gap: 0.5em;"
+        a.innerHTML = text
+        a.href = '#' + heading.id;
+        a.style = `display: flex;
+        align-items: center;`
+        heading.appendChild(a);
+      }
+    });
+  })();
+</script>
 
 
 

@@ -14,7 +14,7 @@ A Tour of Go: [Functions](https://go.dev/tour/basics/4)
 
 ---
 
-## First exercise:
+## First exercise
 
 ```go
 
@@ -33,7 +33,7 @@ func main() {
 - [Playground](https://go.dev/play/p/v_lC8LDSs05)
 - [Solved](https://go.dev/play/p/no2gWFrkAg4)
 
-## Second exercise:
+## Second exercise
 
 ```go
 // functions2
@@ -59,7 +59,7 @@ func call_me(num) {
 - [Playground](https://go.dev/play/p/dCT1Vfaa9aB)
 - [Solved](https://go.dev/play/p/m793kd_CdTn)
 
-## Third exercise:
+## Third exercise
 
 ```go
 // functions3
@@ -85,7 +85,7 @@ func call_me(num int) {
 - [Playground](https://go.dev/play/p/dRe45O4Pj6X)
 - [Solved](https://go.dev/play/p/ZOF9DMH_PUl)
 
-## Fourth exercise:
+## Fourth exercise
 
 ```go
 // functions4

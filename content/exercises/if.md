@@ -15,7 +15,7 @@ A Tour of Go: [If and Else](https://go.dev/tour/flowcontrol/7),
 
 ---
 
-## First exercise:
+## First exercise
 
 ```go
 
@@ -55,7 +55,7 @@ func TestTenIsBiggerThanFive(t *testing.T) {
 - [Playground](https://go.dev/play/p/316919AjuJq)
 - [Solved](https://go.dev/play/p/rsrMpTBDy1L)
 
-## Second exercise:
+## Second exercise
 
 ```go
 // if2

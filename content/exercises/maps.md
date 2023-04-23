@@ -10,11 +10,11 @@ pageSource: "https://github.com/Grubba27/golings-site/blob/main/content/exercise
 
 Go by example: [Maps](https://gobyexample.com/maps).
 
-A Tour of Go: [Maps](https://go.dev/tour/moretypes/19), [Mutating Maps](https://go.dev/tour/moretypes/22), [Exercise: Maps](https://go.dev/tour/moretypes/23) - [Solved](https://go.dev/play/p/Ps2U2xvkEt5)
+A Tour of Go: [Maps](https://go.dev/tour/moretypes/19), [Mutating Maps](https://go.dev/tour/moretypes/22), [exercise Maps](https://go.dev/tour/moretypes/23) - [Solved](https://go.dev/play/p/Ps2U2xvkEt5)
 
 ---
 
-## First exercise:
+## First exercise
 
 ```go
 
@@ -44,7 +44,7 @@ func main() {
 - [Solved](https://go.dev/play/p/E-KMlz-BvRC)
 
 
-## Second exercise:
+## Second exercise
 
 ```go
 
@@ -68,7 +68,7 @@ func main() {
 - [Solved](https://go.dev/play/p/eTCnoWU_-h8)
 
 
-## Third exercise:
+## Third exercise
 
 ```go
 // maps3

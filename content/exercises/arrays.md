@@ -14,7 +14,7 @@ A Tour of Go: [Arrays](https://go.dev/tour/moretypes/6)
 ---
 
 
-##  First exercise:
+##  First exercise
 
 ```go
 // arrays1
@@ -42,7 +42,7 @@ func main() {
  - [Solved](https://go.dev/play/p/NwbqPNo4Wf2)
 
 
- ##  Second exercise:
+ ##  Second exercise
 
 ```go
 // arrays2
