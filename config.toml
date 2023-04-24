@@ -52,6 +52,7 @@ enableEmoji = true
   defaultColor = "light" # set default color mode: dark or light
   description = "Rustlings, but for Go"
   exercises = "https://github.com/mauricioabreu/golings/blob/main/exercises"
+  image = "gopher_team.png"
 
 [params.author]
   avatar = "Go-Logo_Blue.png"
