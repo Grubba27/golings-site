@@ -9,7 +9,7 @@ pageSource: "https://github.com/Grubba27/golings-site/blob/main/content/exercise
 # Reading material
 
 A Tour of Go: [Structs](https://go.dev/tour/moretypes/2). 
-Go by Example: [Structs](https://gobyexample.com/structs).
+Go by Example: [Structs](https://gobyexample.com/structs), [Struc Embedding](https://gobyexample.com/struct-embedding).
 
 ---
 
