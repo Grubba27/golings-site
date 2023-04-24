@@ -2,8 +2,8 @@
 title: "Switch"
 date: 2023-04-23T21:38:53-03:00
 draft: false
-exercises: "https://github.com/mauricioabreu/golings/tree/main/exercises/structs"
-pageSource: "https://github.com/Grubba27/golings-site/blob/main/content/exercises/structs.md"
+exercises: "https://github.com/mauricioabreu/golings/tree/main/exercises/switch"
+pageSource: "https://github.com/Grubba27/golings-site/blob/main/content/exercises/switch.md"
 ---
 
 # Reading material
@@ -108,6 +108,6 @@ func TestWeekDay(t *testing.T) {
 }
 ```
 
-- [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/switch/switch3/main.go)
+- [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/switch/switch3/main_test.go)
 - [Playground](hhttps://go.dev/play/p/U6XXrvIAVj4)
 - [Solved](https://go.dev/play/p/EZI3ki7uBaP)
