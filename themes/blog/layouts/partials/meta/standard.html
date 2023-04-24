@@ -32,13 +32,13 @@
 {{ end }}
 
 {{ with .Params.image }}
-  <meta itemprop="image" content="{{ . | absURL }}" />
-  <meta property="og:image" content="{{ . | absURL }}" />
-  <meta name="twitter:image" content="{{ . | absURL }}" />
-  <meta name="twitter:image:src" content="{{ . | absURL }}" />
+  <meta itemprop="image" content="{{ .  }}" />
+  <meta property="og:image" content="{{ .  }}" />
+  <meta name="twitter:image" content="{{ . }}" />
+  <meta name="twitter:image:src" content="{{ .  }}" />
 {{ else }}
-  <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
-  <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
-  <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
-  <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" />
+  <meta itemprop="image" content="{{ .Site.Params.ogimage  }}" />
+  <meta property="og:image" content="{{ .Site.Params.ogimage }}" />
+  <meta name="twitter:image" content="{{ .Site.Params.ogimage }}" />
+  <meta name="twitter:image:src" content="{{ .Site.Params.ogimage }}" />
 {{ end }}

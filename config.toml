@@ -50,10 +50,10 @@ enableEmoji = true
   sitename = "Golings"
   pageSource = "https://github.com/Grubba27/golings-site"
   defaultColor = "light" # set default color mode: dark or light
-  description = "Rustlings, but for Go"
+  description = "A project that helps you get started with Go by solving problems, inspired by Rustlings."
   exercises = "https://github.com/mauricioabreu/golings/blob/main/exercises"
-  image = "gopher_team.png"
-  ogimage = "gopher_team.png"
+  image = "https://go.dev/doc/gopher/ref.png"
+  ogimage = "https://go.dev/doc/gopher/ref.png"
 
 [params.author]
   avatar = "Go-Logo_Blue.png"
