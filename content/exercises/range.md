@@ -8,7 +8,8 @@ pageSource: "https://github.com/Grubba27/golings-site/blob/main/content/exercise
 
 # Reading material
 
-A Tour of Go: [Basic types](https://go.dev/tour/basics/11).
+A Tour of Go: [Range](https://go.dev/tour/moretypes/16). 
+Go by Example: [Range](https://gobyexample.com/range).
 
 ---
 
