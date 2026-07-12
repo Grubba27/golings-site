@@ -32,14 +32,14 @@ func main() {
 	colors[1] = "green"
 	colors[2] = "blue"
 
-	fmt.Printf("First color is %s:\n", colors[])
-	fmt.Printf("Last color is %s:\n", colors[])
+	fmt.Printf("First color is %s\n", colors[])
+	fmt.Printf("Last color is %s\n", colors[])
 }
 ```
 
  - [Source code](https://github.com/mauricioabreu/golings/blob/main/exercises/arrays/arrays1/main.go) 
- - [Playground](https://go.dev/play/p/AoEkJ9s_m_h) 
- - [Solved](https://go.dev/play/p/NwbqPNo4Wf2)
+ - [Playground](https://go.dev/play/p/uY9rQtHLoyI) 
+ - [Solved](https://go.dev/play/p/P9SQz6SheLB)
 
 
  ##  Second exercise
